@@ -1,8 +1,8 @@
 import os
 
 
-POEM = """I knock. The door says, Come in—
-so I enter carrying my no.
+POEM = """May I? My knuckles sting.
+You lift the latch. Come in.
 A hand places a key in my palm;
 I turn it once, then set it down.
 When they ask me to stay,
